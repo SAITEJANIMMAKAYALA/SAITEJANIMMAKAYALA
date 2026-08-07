@@ -42,6 +42,7 @@ I'm a B.Tech graduate from St. Peter's Engineering College with a strong foundat
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/teju_vox_off/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitejain/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@TEJUVox_StuDiO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white)](https://sai-teja-portfolio-1ca33808.base44.app/Home)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejanimmakayala8098@gmail.com)
 
 <p align="right">
