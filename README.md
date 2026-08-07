@@ -1,5 +1,5 @@
 # Hi there, I'm Sai Teja! 👋
-**B.Tech Final Year | AI & ML Specialist | Aspiring Software Engineer**
+**B.Tech Graduate | AI & ML Specialist | Aspiring Software Engineer**
 
 I am a dedicated student at St. Peters Engineering College specializing in Artificial Intelligence and Machine Learning. I bridge the gap between complex data and actionable insights through intelligent systems.
 
