@@ -1,11 +1,16 @@
 # Hi there, I'm Sai Teja! 👋
-**B.Tech Graduate | AI & ML Specialist | Aspiring Software Engineer**
 
-I am a dedicated student at St. Peters Engineering College specializing in Artificial Intelligence and Machine Learning. I bridge the gap between complex data and actionable insights through intelligent systems.
+B.Tech Graduate in Artificial Intelligence & Machine Learning | Python Developer | AI/ML & Data Analytics Enthusiast
 
-- 🛠️ **Current Major Project:** Accident Hotspot Prediction System (implemented with Streamlit).
-- 🧠 **ML Interests:** Computer Vision, Price Prediction Models, and Data Analytics.
-- 💼 **Experience:** Internships at Microsoft & SAP-AICTE.
+I'm a B.Tech graduate from St. Peter's Engineering College with a strong foundation in Python, Java, SQL, Machine Learning, Data Analytics, Power BI, and Django. I enjoy building intelligent applications, developing full-stack web solutions, and solving real-world problems using data and AI.
+
+🌱 Currently Learning: Software Engineering, Cloud Technologies, Linux, and Data Engineering concepts.
+🤖 AI & ML Projects: Smart Vehicle Price Predictor, Face Recognition Attendance System, AI Disease Predictor, and Weather Streamlit App.
+💻 Full-Stack Development: Built an E-commerce website using Django, MySQL, HTML, and CSS with authentication, shopping cart, order management, and email notifications.
+📊 Data Analytics: Experienced with Power BI, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
+💼 Experience: AI Intern at TechSaksham (Microsoft, SAP & AICTE Initiative) through Edunet Foundation, where I worked on AI and Computer Vision applications.
+🚀 Career Goal: Seeking opportunities as a Software Engineer, Python Developer, Data Analyst, AI/ML Engineer, or Data Engineer, where I can contribute to impactful projects while continuously learning new technologies.
+-
 
 ---
 
