@@ -10,9 +10,6 @@ I'm a B.Tech graduate from St. Peter's Engineering College with a strong foundat
 📊 Data Analytics: Experienced with Power BI, Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
 💼 Experience: AI Intern at TechSaksham (Microsoft, SAP & AICTE Initiative) through Edunet Foundation, where I worked on AI and Computer Vision applications.
 🚀 Career Goal: Seeking opportunities as a Software Engineer, Python Developer, Data Analyst, AI/ML Engineer, or Data Engineer, where I can contribute to impactful projects while continuously learning new technologies.
--
-
----
 
 ### 🛠️ Tech Stack
 
