@@ -39,11 +39,14 @@ I'm a B.Tech graduate from St. Peter's Engineering College with a strong foundat
 
 
 ### 📬 Let's Connect:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/teju_vox_off) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitejain/) ```markdown
+```markdown
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/teju_vox_off/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitejain/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@TEJUVox_StuDiO)
-```
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejanimmakayala8098@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejanimmakayala8098@gmail.com)
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=SAITEJANIMMAKAYALA&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=SAITEJANIMMAKAYALA&icon=0&color=0" alt="Profile Views" />
 </p>
+```
+
