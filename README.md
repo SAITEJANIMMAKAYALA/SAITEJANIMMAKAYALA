@@ -39,7 +39,6 @@ I'm a B.Tech graduate from St. Peter's Engineering College with a strong foundat
 
 
 ### 📬 Let's Connect:
-```markdown
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/teju_vox_off/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitejain/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@TEJUVox_StuDiO)
@@ -48,5 +47,4 @@ I'm a B.Tech graduate from St. Peter's Engineering College with a strong foundat
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=SAITEJANIMMAKAYALA&icon=0&color=0" alt="Profile Views" />
 </p>
-```
 
