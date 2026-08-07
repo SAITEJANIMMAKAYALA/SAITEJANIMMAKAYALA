@@ -26,22 +26,13 @@ I am a dedicated student at St. Peters Engineering College specializing in Artif
 ---
 
 ### 📊 GitHub Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAITEJANIMMAKAYALA&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&cache_seconds=1800" height="192px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SAITEJANIMMAKAYALA&theme=cobalt&hide_border=true" height="192px" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=SAITEJANIMMAKAYALA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SAITEJANIMMAKAYALA&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAITEJANIMMAKAYALA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAITEJANIMMAKAYALA&theme=cobalt&hide_border=true&layout=compact&cache_seconds=1800" />
-</p>
-
----
 
 ### 📬 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-teja-nimmakayala)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejanimmakayala8098@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teju_vox_off)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TEJUVoxStudio)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/teju_vox_off) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saitejain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TEJUVox_StuDiO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejanimmakayala8098@gmail.com) 
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=SAITEJANIMMAKAYALA&icon=0&color=0" />
